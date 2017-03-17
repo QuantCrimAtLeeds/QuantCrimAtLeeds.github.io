@@ -1,0 +1,14 @@
+/* Extra styles for the leeds-quant-crim website */
+
+
+/* For pictures of the group members */
+.staffPicture {
+  float:right;
+  width:100px;
+  height:auto;
+  margin:10px;
+}
+
+img {
+  margin:10px;
+}

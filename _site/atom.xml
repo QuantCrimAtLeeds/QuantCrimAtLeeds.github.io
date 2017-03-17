@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Leeds Quant Crim</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2016-11-23T11:56:56+00:00</updated>
+ <id></id>
+ <author>
+   <name>Nick Malleson</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Graham Farrell (October 2016)</title>
+   <link href="/2016/10/26/G_Farrell.html"/>
+   <updated>2016-10-26T00:00:00+01:00</updated>
+   <id>/2016/10/26/G_Farrell</id>
+   <content type="html">&lt;h1 id=&quot;the-crime-drop---hypothesis-based-quant&quot;&gt;The Crime Drop - Hypothesis-Based Quant&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.law.leeds.ac.uk/people/staff/farrell/&quot;&gt; &lt;img style=&quot;float:right;&quot; src=&quot;http://www.law.leeds.ac.uk/assets/images/staff/Graham-Farrell.JPG&quot; alt=&quot;Picture from Graham&#39;s home page&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: &lt;strong&gt;&lt;a href=&quot;http://www.law.leeds.ac.uk/people/staff/farrell/&quot;&gt;Graham Farrell&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;Professor of International and Comparative Criminology&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Graham presented his ongoing work on the &lt;em&gt;crime drop&lt;/em&gt; (the phenomena that crime in most ‘western’ countries has dropped substantially in recent decades). As well as providing evidence for the drop, Graham also posed some possible explanations.&lt;/p&gt;
+
+&lt;p&gt;The full slides are available &lt;a href=&quot;/leeds-quant-crim//slides/2016-10-26-G_Farrell.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Victoria Spaiser (September 2016)</title>
+   <link href="/2016/09/28/V_Spaiser.html"/>
+   <updated>2016-09-28T00:00:00+01:00</updated>
+   <id>/2016/09/28/V_Spaiser</id>
+   <content type="html">&lt;h1 id=&quot;collecting--analyzing-twitter-data--an-introduction&quot;&gt;Collecting &amp;amp; Analyzing Twitter data – an Introduction&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.polis.leeds.ac.uk/people/staff/spaiser&quot;&gt; &lt;img style=&quot;float:right;&quot; src=&quot;http://www.polis.leeds.ac.uk/assets/images/staff/viktoria-spaiser.jpg&quot; alt=&quot;Picture from Viktoria&#39;s home page&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: &lt;strong&gt;&lt;a href=&quot;http://www.polis.leeds.ac.uk/people/staff/spaiser&quot;&gt;Viktoria Spaiser&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;UAF in Political Science Informatics, School of Politics and International Studies&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Viktoria presented a workshop on how to extract Twitter data, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ways to access data: the &lt;em&gt;Streaming API&lt;/em&gt; (real time) and &lt;em&gt;REST API&lt;/em&gt; (historical search)&lt;/li&gt;
+  &lt;li&gt;Archives of Twitter data and useful tools&lt;/li&gt;
+  &lt;li&gt;Data contained in a single tweet&lt;/li&gt;
+  &lt;li&gt;Programming! - Python 2.7, Anaconda (python packages), and Spyder (IDE)&lt;/li&gt;
+  &lt;li&gt;Geo-location processing (GeoJSON, QGIS, Leaflet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The full slides are available &lt;a href=&quot;/leeds-quant-crim//slides/2016-09-28-V_Spaiser.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Agent-Based Modelling (April 2016)</title>
+   <link href="/2016/04/20/ABM.html"/>
+   <updated>2016-04-20T00:00:00+01:00</updated>
+   <id>/2016/04/20/ABM</id>
+   <content type="html">&lt;p&gt;This meeting was about all things agent-based modelling! Nick Malleson and Andy evans presented their work on the use of agent-based models in criminology.&lt;/p&gt;
+
+&lt;p&gt;The slides are avaliable &lt;a href=&quot;/leeds-quant-crim/slides/2016-04-abm_presentation.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Emily Sheard (March 2016)</title>
+   <link href="/2016/03/16/Emily_Sheard.html"/>
+   <updated>2016-03-16T00:00:00+00:00</updated>
+   <id>/2016/03/16/Emily_Sheard</id>
+   <content type="html">&lt;p&gt;In our March meeting, Emily Sheard (School of Geography) presented her ongoing PhD work, entitled:&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;Can Consumer-related Data Predict the Spatial Distribution of Crime?&lt;/p&gt;
+
+&lt;p&gt;Graham Farrell (School of Law) was due to present, but cancelled due to illness&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Johanna Schoenhofer and Richard Mann (February 2016)</title>
+   <link href="/2016/02/24/Johanna_and_Richard.html"/>
+   <updated>2016-02-24T00:00:00+00:00</updated>
+   <id>/2016/02/24/Johanna_and_Richard</id>
+   <content type="html">&lt;p&gt;In the Feb meeting, we had presentations from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Johanna Schoenhofer (School of Law) ‘Solidarity, Crime, and Punishment. A Time-Series-Cross-Section Analysis’; and&lt;/li&gt;
+  &lt;li&gt;Richard Mann&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our First Meeting (Janurary 2016)</title>
+   <link href="/2016/01/20/First.html"/>
+   <updated>2016-01-20T00:00:00+00:00</updated>
+   <id>/2016/01/20/First</id>
+   <content type="html">&lt;p&gt;As this was the first meeting, we spend the time on introductions and discussing what we would like from the group.&lt;/p&gt;
+
+&lt;p&gt;We decided on a forum-style meeting once per month with lunch and presentations. Ideas for content included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;present things that people are currrently doing or have done&lt;/li&gt;
+  &lt;li&gt;for advice / critique from the group, or simply for sharing information&lt;/li&gt;
+  &lt;li&gt;aim for shorter presentations, with more time for discussion and feedback&lt;/li&gt;
+  &lt;li&gt;emphasise methodological aspects&lt;/li&gt;
+  &lt;li&gt;themed meetings around specific funding calls or new data sets (as appropriate)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the meantime, we decided that we would begin by seeing a presentation from each member to better understand the rang of quantitative-criminology work going on at Leeds.&lt;/p&gt;
+
+&lt;p&gt;Some people also suggested that specific tutorials or workshops would be useful, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Self exciting point processes (someone to explain the maths)&lt;/li&gt;
+  &lt;li&gt;Machine learning&lt;/li&gt;
+  &lt;li&gt;Structural equation modelling&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+
+</feed>
