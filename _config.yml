@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+#highlighter:      pygments
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Leeds Quant Crim
+tagline:          'Quantitative Criminology group (Leeds, UK)'
+description:      'A group of researchers interested in quantitative criminology.'
+#url:              http://hyde.getpoole.com
+#baseurl:          /leeds-quant-crim/
+
+author:
+  name:           'Nick Malleson'
+  url:            http://www.geog.leeds.ac.uk/people/n.malleson/
+
+#paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
